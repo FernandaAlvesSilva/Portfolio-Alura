@@ -140,9 +140,23 @@ body {
     .titulo, .texto-paragrafo{
         text-align: justify;
     }
-    
+
+
     .bi-list{
         font-size: 2.5rem;
     }
+
+    .titulo{
+        font-size: 2rem;
+    }
+
+    .texto-paragrafo{
+        font-size: 1rem;
+    }
+
+    .text-footer{
+        font-size: 1rem;
+    }
+    
     
 }
